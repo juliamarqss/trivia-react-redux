@@ -1,3 +1,3 @@
 # Projeto de Trivia
 
-<img height="600" src="https://i.im.ge/2022/07/07/uKHjqF.gif">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/99684837/177835754-afd1acb2-bf41-4333-b1bd-594779693ba0.gif)
